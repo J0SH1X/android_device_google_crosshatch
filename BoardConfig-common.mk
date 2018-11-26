@@ -14,6 +14,9 @@
 # limitations under the License.
 #
 
+# Allow Lineage config to override others
+-include device/google/taimen/BoardConfigLineage.mk
+
 TARGET_BOARD_PLATFORM := sdm845
 TARGET_BOARD_INFO_FILE := device/google/crosshatch/board-info.txt
 USES_DEVICE_GOOGLE_B1C1 := true
