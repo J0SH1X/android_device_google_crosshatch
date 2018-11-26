@@ -16,3 +16,4 @@
 
 add_lunch_combo aosp_crosshatch-userdebug
 add_lunch_combo aosp_blueline-userdebug
+add lunch_combo lineage_crosshatch-userdebug
