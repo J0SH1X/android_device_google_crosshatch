@@ -15,8 +15,8 @@
 #
 
 # Allow Lineage config to override others
--include device/google/taimen/BoardConfigLineage.mk
-
+-include device/google/crosshatch/BoardConfigLineage.mk
+BOARD_KERNEL_IMAGE_NAME := Image
 TARGET_BOARD_PLATFORM := sdm845
 TARGET_BOARD_INFO_FILE := device/google/crosshatch/board-info.txt
 USES_DEVICE_GOOGLE_B1C1 := true

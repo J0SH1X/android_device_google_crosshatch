@@ -9,4 +9,4 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
    com.android.ims.rcsmanager \
    RcsService \
-PresencePolling
+   PresencePolling
