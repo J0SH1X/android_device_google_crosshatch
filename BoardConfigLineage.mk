@@ -7,7 +7,7 @@ TARGET_KERNEL_SOURCE := kernel/google/crosshatch
 TARGET_NEEDS_DTBOIMAGE := true
 
 #Prebuild vendor
-BOARD_PREBUILT_VENDORIMAGE := device/google/crosshatch/vendor.img
+#BOARD_PREBUILT_VENDORIMAGE := device/google/crosshatch/vendor.img
 
 #Disable VBMETA
 
