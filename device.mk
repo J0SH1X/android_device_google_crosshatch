@@ -517,7 +517,7 @@ PRODUCT_PACKAGES += \
     libqcompostprocbundle
 
 PRODUCT_PACKAGES += \
-    audio.primary.sdm845 \
+   # audio.primary.sdm845 \
     audio.a2dp.default \
     audio.usb.default \
     audio.r_submix.default \
