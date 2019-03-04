@@ -17,3 +17,8 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_crosshatch.mk \
     $(LOCAL_DIR)/aosp_blueline.mk \
+    $(LOCAL_DIR)/lineage_blueline.mk \
+    $(LOCAL_DIR)/lineage_crosshatch.mk \
+    $(LOCAL_DIR)/rr_blueline.mk \
+    $(LOCAL_DIR)/rr_crosshatch.mk \
+
